@@ -90,6 +90,7 @@ Images block
   background-size: cover;
 }*/
 .cd-images-list > li {
+  height: 250px;
   background: #11ada4 url(../img/img-5.jpg) no-repeat center center;
   background-size: cover;
 }
