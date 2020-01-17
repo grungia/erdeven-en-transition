@@ -72,13 +72,13 @@ Images block
   content: 'mobile';
   display: none;
 }
-.cd-images-list > li {
+/*.cd-images-list > li {
   height: 250px;
-  background: #979c9c url(../img/img-1.jpg) no-repeat center center;
+  background: #fff url(../img/img-1.jpg) no-repeat center center;
   background-size: cover;
 }
 .cd-images-list > li:nth-of-type(2) {
-  background: #343642 url(../img/img-2.jpg) no-repeat center center;
+  background: #fff url(../img/img-2.jpg) no-repeat center center;
   background-size: cover;
 }
 .cd-images-list > li:nth-of-type(3) {
@@ -87,6 +87,14 @@ Images block
 }
 .cd-images-list > li:nth-of-type(4) {
   background: #338899 url(../img/img-4.jpg) no-repeat center center;
+  background-size: cover;
+}*/
+.cd-images-list > li {
+  background: #338899 url(../img/img-4.jpg) no-repeat center center;
+  background-size: cover;
+}
+.cd-images-list > li:nth-of-type(2) {
+  background: #982b3c url(../img/img-3.jpg) no-repeat center center;
   background-size: cover;
 }
 .cd-images-list > li > a {
