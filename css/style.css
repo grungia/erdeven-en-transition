@@ -90,11 +90,11 @@ Images block
   background-size: cover;
 }*/
 .cd-images-list > li {
-  background: #338899 url(../img/img-4.jpg) no-repeat center center;
+  background: #11ada4 url(../img/img-5.jpg) no-repeat center center;
   background-size: cover;
 }
 .cd-images-list > li:nth-of-type(2) {
-  background: #982b3c url(../img/img-3.jpg) no-repeat center center;
+  background: #338899 url(../img/img-4.jpg) no-repeat center center;
   background-size: cover;
 }
 .cd-images-list > li > a {
